@@ -15,7 +15,7 @@ A design system for indie builders, startups and freelancers. Once UI combines t
 
 ## Demo
 
-Check the [demo app](https://convert.once-ui.com).
+Check the [demo app](https://convert.once-ui.com](https://trustintune.com/).
 
 ## Documentation
 
